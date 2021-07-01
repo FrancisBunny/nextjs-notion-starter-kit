@@ -9,7 +9,7 @@ module.exports = {
 
   // basic site info (required)
   // 个人博客的名称
-  name: 'Transitive Bullshit',
+  name: '工作求职指南',
   // Notion页面的原始链接
   domain: 'https://www.notion.so/5e2fb017a0bd4b0fa083277e8b46c7eb',
   // 作者名称
