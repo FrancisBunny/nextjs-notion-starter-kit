@@ -1,7 +1,7 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
   // Notion页面的id
-  rootNotionPageId: '78fc5a4b88d74b0e824e29407e9f1ec1',
+  rootNotionPageId: '5e2fb017a0bd4b0fa083277e8b46c7eb',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -11,9 +11,9 @@ module.exports = {
   // 个人博客的名称
   name: 'Transitive Bullshit',
   // Notion页面的原始链接
-  domain: 'transitivebullsh.it',
+  domain: 'https://www.notion.so/5e2fb017a0bd4b0fa083277e8b46c7eb',
   // 作者名称
-  author: 'Travis Fischer',
+  author: 'FrancisBunny',
 
   // open graph metadata (optional)
   description: 'Example site description',
